@@ -123,3 +123,25 @@ a {
 .article:hover {
     color:fuchsia;
 }
+#vijay{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+#vijay:hover{
+    transform: scale(0.9);
+}
+#vijay{
+    width: 200px;
+    height: 200px;
+}
+#billgates{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+#billgates:hover{
+    transform: scale(0.9);
+}
+#billgates{
+    width: 200px;
+    height: 200px;
+}
